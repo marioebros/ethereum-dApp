@@ -1,7 +1,7 @@
 # ethereum-dApp
 Practice with Full Stack Ethereum Development with React, Ether.js, Solidity, &amp; Hardhat.
 
-Success! Inside "ethereum-dApp/react-dapp" 
+Success! Inside "ethereum-dApp/blockchain/contacts" 
   Inside that directory, you can run several commands:
 
 npm start 
